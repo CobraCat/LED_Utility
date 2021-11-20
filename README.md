@@ -7,3 +7,5 @@ may dynamic 'xy' postions and any LEDs which have been assigned variables.
 
 There is no license on the application but due recognition of Kevin Darrah and
 myself would be appreciated upon any modifications.
+
+A Sketches.zip file contains various sketches associated with the project, but there may be extras.
