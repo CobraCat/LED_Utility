@@ -8,6 +8,10 @@ may dynamic 'xy' postions and any LEDs which have been assigned variables.
 There is no license on the application but due recognition of Kevin Darrah and
 myself would be appreciated upon any modifications.
 
+The Excel worksheets are Password Protected to prevent inadvertent alterations.
+The Password is actually visible (in case of memeroy loss) on the yellow border, bottom left of the 8x8 worksheet.
+The PWD is BJN
+
 # Sketches.zip 
 This file contains various sketches associated with the project, but there may be extras.
 Check that the LED_Arduino.ino and LED_Arduino16.ino are set to Read-Only. You don't want
